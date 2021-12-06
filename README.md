@@ -29,7 +29,14 @@
     <img src="http://img.shields.io/badge/Tech Blog-ff7965?style=flat&logo=Emby&logoColor=white&link=https://yoon-min-codinglog.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 <a href="https://ysmgg1@naver.com">
-    <img src="http://img.shields.io/badge/Naver Mail-7dff8c?style=flat&logo=naver&logoColor=white&link=https://ysmgg1@naver.com"
+    <img src="http://img.shields.io/badge/yoonmin_WEB Page-2667d8?style=flat&logo=Emby&logoColor=white&link=https://ysmgg1@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<a href="https://yoonminweb.y00nmin.repl.co/">
+    <img src="http://img.shields.io/badge/Naver Mail:ysmgg1@naver.com-7dff8c?style=flat&logo=naver&logoColor=white&link=https://yoonminweb.y00nmin.repl.co/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
