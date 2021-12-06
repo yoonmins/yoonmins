@@ -1,4 +1,4 @@
-<h1 align="center"> SungMin Yoon(yoonmin)</h1>
+<h1 align="center"> SungMin Yoon(@yoonmin)</h1>
 
 <h3>💻시작점</h3>
 22살 군복무 중 개발 공부를 시작하였습니다.
