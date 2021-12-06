@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-<h3>저를 더 알고싶다면</h3>
+<h3>☎Contact</h3>
 <a href="https://yoon-min-codinglog.tistory.com/">
     <img src="http://img.shields.io/badge/Tech Blog-ff7965?style=flat&logo=Emby&logoColor=white&link=https://yoon-min-codinglog.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
