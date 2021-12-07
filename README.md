@@ -1,4 +1,4 @@
-<h1 align="center"> Hello!👋🏼 I'm SungMin Yoon(@yoonmin)</h1>
+<h1 align="center">Hi👋🏼I'm SungMin Yoon(@yoonmin)</h1>
 
 <h3>💻Start</h3>
 22살 군복무 중 개발 공부를 시작하였습니다.
@@ -13,7 +13,7 @@
 풀스택 개발자를 지향하는 것이 제 목표입니다.
 아직 주니어 개발자이지만 성장해가는 모습을 지켜봐주세요!🙏🏼
 
-<h3 align = "center">📢Languages and Tools</h3>
+<h3 align = "center">🌀Languages and Tools</h3>
 <div align = "center">
 <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Django-6DB33F?style=flat-square&logo=Django&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -23,34 +23,19 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-<h3 align="center"> Connect with me🦈</h3>
+<h3 align="center"> 📬Contacts</h3>
 <div align = "center">
-<a href="https://yoon-min-codinglog.tistory.com/">
-    <img src="http://img.shields.io/badge/Tech Blog-ff7965?style=flat&logo=Bloglovin&logoColor=white&link=https://yoon-min-codinglog.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px; "/>
-</a>
-
-<a href="https://yoonminweb.y00nmin.repl.co">
-    <img src="http://img.shields.io/badge/yoonmin_WEB Page-2667d8?style=flat&logo=FamPay&logoColor=white&link=https://yoonminweb.y00nmin.repl.co"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg">
-    <img 
-        src="http://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&link=https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://www.instagram.com/yoon__min_/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-ff7066?style=flat&logo=Instagram&link=https://www.instagram.com/yoon__min_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 <a href="mailto:ysmgg1@naver.com">
     <img src="http://img.shields.io/badge/Naver Mail-00d800?style=flat&logo=naver&logoColor=white&link=mailto:ysmgg1@naver.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://yoon-min-codinglog.tistory.com/">
+    <img src="http://img.shields.io/badge/Tech Blog-ff7965?style=flat&logo=Bloglovin&logoColor=white&link=https://yoon-min-codinglog.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
+<a href="https://yoonminweb.y00nmin.repl.co">
+    <img src="http://img.shields.io/badge/yoonmin_WEB Page-2667d8?style=flat&logo=FamPay&logoColor=white&link=https://yoonminweb.y00nmin.repl.co"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg">
+    <img src="http://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&link=https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://www.instagram.com/yoon__min_/">
+    <img src="http://img.shields.io/badge/-Instagram-ff7066?style=flat&logo=Instagram&link=https://www.instagram.com/yoon__min_/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     </div>
 
 
