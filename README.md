@@ -38,4 +38,5 @@
     <img src="http://img.shields.io/badge/-Instagram-ff7066?style=flat&logo=Instagram&link=https://www.instagram.com/yoon__min_/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     </div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y00NMIN&show_icons=true&theme=github_dark&hide=contribs,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y00NMIN&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
