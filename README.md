@@ -22,17 +22,17 @@
 
 <h3 align="center"> 📬Contacts</h3>
 <div align = "center">
-<a href="mailto:ysmgg1@naver.com">
-    <img src="http://img.shields.io/badge/Naver Mail-00d800?style=flat&logo=naver&logoColor=white&link=mailto:ysmgg1@naver.com"
+<a href="mailto:yoonmin.tech@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-ff3d33?style=flat&logo=gmail&logoColor=white&link=mailto:yoonmin.tech@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://yoon-min-codinglog.tistory.com/">
-    <img src="http://img.shields.io/badge/Tech Blog-ff7965?style=flat&logo=Bloglovin&logoColor=white&link=https://yoon-min-codinglog.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
+    <img src="http://img.shields.io/badge/Tech Blog-e0ffd5?style=flat&logo=Bloglovin&logoColor=white&link=https://yoon-min-codinglog.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
 <a href="https://yoonminweb.y00nmin.repl.co">
     <img src="http://img.shields.io/badge/yoonmin_WEB Page-2667d8?style=flat&logo=FamPay&logoColor=white&link=https://yoonminweb.y00nmin.repl.co"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg">
     <img src="http://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&link=https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.instagram.com/yoon__min_/">
-    <img src="http://img.shields.io/badge/-Instagram-ff7066?style=flat&logo=Instagram&link=https://www.instagram.com/yoon__min_/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+    <img src="http://img.shields.io/badge/-Instagram-ff7066?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yoon__min_/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y00NMIN&show_icons=true&theme=github_dark&hide=contribs,issues)
