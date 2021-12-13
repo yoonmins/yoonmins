@@ -25,8 +25,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://yoon-min-codinglog.tistory.com/">
     <img src="http://img.shields.io/badge/Tech Blog-e0ffd5?style=flat&logo=Bloglovin&logoColor=white&link=https://yoon-min-codinglog.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
-<a href="https://yoonminweb.y00nmin.repl.co">
-    <img src="http://img.shields.io/badge/yoonmin_WEB Page-2667d8?style=flat&logo=FamPay&logoColor=white&link=https://yoonminweb.y00nmin.repl.co"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://YoonminMainWEBPage.y00nmin.repl.co">
+    <img src="http://img.shields.io/badge/yoonmin_WEB Page-2667d8?style=flat&logo=FamPay&logoColor=white&link=https://YoonminMainWEBPage.y00nmin.repl.co"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg">
     <img src="http://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&link=https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.instagram.com/yoon__min_/">
