@@ -33,5 +33,10 @@
     <img src="http://img.shields.io/badge/-Instagram-ff7066?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yoon__min_/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     </div>
 
+<a href="https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228">
+    <img src="http://img.shields.io/badge/-LinkedIn-ff7066?style=flat&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+    </div>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y00NMIN&show_icons=true&theme=github_dark&hide=contribs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y00NMIN&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
