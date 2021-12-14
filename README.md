@@ -31,10 +31,8 @@
     <img src="http://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&link=https://www.youtube.com/channel/UCq6gPfqoajz7hgKS2_u1GWg"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.instagram.com/yoon__min_/">
     <img src="http://img.shields.io/badge/-Instagram-ff7066?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yoon__min_/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-    </div>
-
 <a href="https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228">
-    <img src="http://img.shields.io/badge/-LinkedIn-ff7066?style=flat&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+    <img src="http://img.shields.io/badge/-LinkedIn-1572B6?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     </div>
 
 
