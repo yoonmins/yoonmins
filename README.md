@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋🏼I'm SungMin Yoon(@yoonmin)</h1>
+<h1 align="center">Hi 👋🏼 I'm SungMin</h1>
 
 <h3>💻Start</h3>
 22살 군복무 중 개발 공부를 시작하였습니다.
