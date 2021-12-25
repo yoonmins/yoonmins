@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼 I'm SungMin</h1>
+<h1 align="center">Hi 👋🏼 I'm SungMin Yoon</h1>
 
 <h3>📲Project</h3>
 개인 Toy 프로젝트(대표: 포트폴리오 웹, 기도제목 SNS)를 진행 중.
