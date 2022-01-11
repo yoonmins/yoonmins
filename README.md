@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Yoon_Min🦅&animation=twinkling&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=Yoon_Min🦅&animation=twinkling&fontSize=70" />
 
 <h1 align=>Sungmin Yoon</h1>
 - 🌱 I’m currently learning Front-end technology
