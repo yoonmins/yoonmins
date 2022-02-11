@@ -1,10 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Yoon_Min🛠&animation=twinkling&fontSize=70" />
+
 <div align=center>
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47homhla7zxkk7eh1vqkayoh2zm28zhj9jfpg5vp9f&rid=giphy.gif&ct=g" alt="Coder GIF">
 </div>
 <h5 align=center>🌱 I’m currently learning Front-end technology.</h5>
 <h5 align=center>🏆 I am oriented full-stack developers.</h5>
 <h5 align=center>📲 Main Project (Portfolio Web, Prayer topics SNS).</h5>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY00NMIN&count_bg=%23737D77&title_bg=%2382CCF2&icon=&icon_color=%23558FC6&title=hits&edge_flat=false"/></a>
+</p>
 
 <h2> ⚙Stack </h2>
 <div>
@@ -31,10 +35,8 @@
     <img src="http://img.shields.io/badge/Tstory Blog-00bfa5?style=flat&logo=logoColor=white&link=https://yoon-min-codinglog.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
 <a href="https://YoonminMainWEBPage.y00nmin.repl.co">
     </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y00NMIN&show_icons=false&theme=github_dark)
     
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY00NMIN&count_bg=%23737D77&title_bg=%2382CCF2&icon=&icon_color=%23558FC6&title=hits&edge_flat=false"/></a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y00NMIN&show_icons=false&theme=github_dark)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysmgg1)](https://solved.ac/ysmgg1)
+    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
