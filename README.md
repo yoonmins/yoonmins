@@ -32,6 +32,5 @@
 </div>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y00NMIN&show_icons=false&theme=github_dark)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysmgg1)](https://solved.ac/ysmgg1)
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
