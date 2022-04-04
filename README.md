@@ -2,7 +2,7 @@
 <span align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY00NMIN&count_bg=%2363A6A6&title_bg=%23478496&icon=github.svg&icon_color=%238BA2A1&title=Visit&edge_flat=false"/></a><span>
 </h1>
 <h5 >🌱 I’m currently learning Front-end technology.</h5>
-<h5 >🏆 I am oriented full-stack developers.</h5>
+<h5 >🏆 Look into the world, think and solve problems.</h5>
 
 <h2>⚙ Stack</h2>
 <div class="stack">
