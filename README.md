@@ -1,4 +1,4 @@
-# 🌍*FE Developer*, 같이의 가치로 성장하는 개발자
+# *FE Developer*, 같이의 가치로 성장하는 개발자
 
 ##### 🌱 *I’m currently learning Front-end technology.*
 ##### 🏆 *Look into the world, think and solve problems.*
@@ -9,6 +9,12 @@
 <img src="https://img.shields.io/badge/JavaScript-ffd600?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-20a730?style=flat-square&logo=node.js&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/Pug-c69665?style=flat-square&logo=Pug&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Git-ff632b?style=flat-square&logo=Git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+    <br/>
+    <img src="https://img.shields.io/badge/Slack-804080?style=flat-square&logo=slack&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/Figma-424242?style=flat-square&logo=figma&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
