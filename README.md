@@ -2,6 +2,7 @@
 
 ##### 🌱 *I’m currently learning Front-end technology.*
 ##### 🏆 *Look into the world, think and solve problems.*
+##### 🕋*OAFE Crop. Front-end Developer (2022.11.01 ~ )*
 
 ### **🛠 Stack**
 <div class="stack">
@@ -16,6 +17,7 @@
     <img src="https://img.shields.io/badge/Slack-804080?style=flat-square&logo=slack&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Figma-424242?style=flat-square&logo=figma&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+        <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
 ### **📬 Contact**
