@@ -1,8 +1,7 @@
 # *FE Developer*, 같이의 가치로 성장하는 개발자
 
-##### 🌱 *I’m currently learning Front-end technology.*
 ##### 🏆 *Look into the world, think and solve problems.*
-##### 🕋 * Crop. Front-end Developer (2022.11.01 ~ )*
+##### 🕋 * OAFE Crop. Front-end Developer (2022.11.01 ~ )*
 
 ### **🛠 Stack**
 <div class="stack">
