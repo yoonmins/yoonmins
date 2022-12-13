@@ -1,12 +1,15 @@
 # *FE Developer*, 같이의 가치로 성장하는 개발자
 
-##### 🏆 *Look into the world, think and solve problems.*
-##### 🕋 * OAFE Crop. Front-end Developer (2022.11.01 ~ )*
+##### 🏆<br/>*Look into the world, think and solve problems.*
+##### 🕋<br/>*OAFE Crop. Front-end Developer (2022.11.01 ~ )*
+##### 👨🏻‍💻 [My Resum](https://www.notion.so/developeryoonmine/b73715b3e97e445c992bea79eea39faa)
+
 
 ### **🛠 Stack**
 <div class="stack">
     <img src="https://img.shields.io/badge/React-4479A1?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
         <img src="https://img.shields.io/badge/React Native-4479A1?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/TypeScript-2F88FC?style=flat-square&logo=TypeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-ffd600?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
