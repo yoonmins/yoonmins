@@ -20,6 +20,7 @@
     <br/>
     <img src="https://img.shields.io/badge/Slack-804080?style=flat-square&logo=slack&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Figma-424242?style=flat-square&logo=figma&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+        <img src="https://img.shields.io/badge/Flow-442895?style=flat-square&logo=flow&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
         <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
