@@ -3,7 +3,7 @@
 ##### 🏆<br/>*Look into the world, think and solve problems.*
 ##### 👨🏻‍💻 [My Resum](https://www.notion.so/developeryoonmine/b73715b3e97e445c992bea79eea39faa)
 
-
+<!--
 ### **🛠 Stack**
 <div class="stack">
 <img src="https://img.shields.io/badge/Dart-06599d?style=flat-square&logo=Dart&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
         <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
-
+-->
 ### **📬 Contact**
 <div class="contact">
 <a href="mailto:yoonmin.tech@gmail.com"><img src="http://img.shields.io/badge/Gmail-ff3d33?style=flat&logo=gmail&logoColor=white&link=mailto:yoonmin.tech@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
@@ -36,4 +36,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY00NMIN&count_bg=%2322272E&title_bg=%23539BF5&icon=&icon_color=%23539BF5&title=Hello+there&edge_flat=false)](https://hits.seeyoufarm.com)
     
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmins&show_icons=false&theme=github_dark) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmins&show_icons=false&theme=github_dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysmgg1)](https://solved.ac/ysmgg1/)
