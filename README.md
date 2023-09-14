@@ -1,7 +1,6 @@
 # *FE Developer*, 같이의 가치로 성장하는 개발자
 
 ##### 🏆<br/>*Look into the world, think and solve problems.*
-##### 🕋<br/>*OAFE Inc. Front-end Developer (2022.11.01 ~ )*
 ##### 👨🏻‍💻 [My Resum](https://www.notion.so/developeryoonmine/b73715b3e97e445c992bea79eea39faa)
 
 
