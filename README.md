@@ -38,4 +38,5 @@
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmins&show_icons=false&theme=github_dark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysmgg1)](https://solved.ac/ysmgg1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmins&show_icons=false&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
