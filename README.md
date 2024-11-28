@@ -30,7 +30,9 @@
 <div class="contact">
 <a href="mailto:yoonmin.tech@gmail.com"><img src="http://img.shields.io/badge/Gmail-ff3d33?style=flat&logo=gmail&logoColor=white&link=mailto:yoonmin.tech@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228"><img src="http://img.shields.io/badge/-LinkedIn-1572B6?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="https://yoon-min-codinglog.tistory.com/"><img src="http://img.shields.io/badge/💡 Yoonmin Blog-999?style=flat&logo=logoColor=white&link=https://yoon-min-codinglog.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
+    <br/>
+<a href="https://yoon-min-codinglog.tistory.com/"><img src="http://img.shields.io/badge/💡 Tstory(tech blog | WEB)-999?style=flat&logo=logoColor=white&link=https://yoon-min-codinglog.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
+    <a href="https://velog.io/@yoon_min/posts"><img src="http://img.shields.io/badge/💡 Velog(tech blog | CS, React etc..)-993?style=flat&logo=logoColor=white&link=https://velog.io/@yoon_min/posts"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
 </div>  
 <br/>
 
@@ -38,5 +40,5 @@
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmins&show_icons=false&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmins&show_icons=false&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmins&show_icons=false&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
