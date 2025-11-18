@@ -1,6 +1,6 @@
 # *같이의 가치로 성장하는 개발자*
 
-##### 🏆<br/>*Look into the world, think and solve problems.*
+##### 🏆 *Look into the world, think and solve problems.*
 ##### 👨🏻‍💻 [My Resum](https://www.notion.so/developeryoonmine/b73715b3e97e445c992bea79eea39faa)
 
 <!--
@@ -27,7 +27,7 @@
 </div>
 -->
 ### **📬 Contact**
-<div class="contact">
+<!--<div class="contact">
 <a href="mailto:yoonmin.tech@gmail.com"><img src="http://img.shields.io/badge/Gmail-ff3d33?style=flat&logo=gmail&logoColor=white&link=mailto:yoonmin.tech@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228"><img src="http://img.shields.io/badge/-LinkedIn-1572B6?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%9C%A4-8a4440228"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     <br/>
@@ -35,9 +35,10 @@
     <a href="https://velog.io/@yoon_min/posts"><img src="http://img.shields.io/badge/💡 Velog(tech blog | CS, React etc..)-993?style=flat&logo=logoColor=white&link=https://velog.io/@yoon_min/posts"style="height : auto; margin-left : 10px; margin-right : 10px; "/></a>
 </div>  
 <br/>
-
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY00NMIN&count_bg=%2322272E&title_bg=%23539BF5&icon=&icon_color=%23539BF5&title=Hello+there&edge_flat=false)](https://hits.seeyoufarm.com)-->
-    
+-->
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY00NMIN&count_bg=%2322272E&title_bg=%23539BF5&icon=&icon_color=%23539BF5&title=Hello+there&edge_flat=false)](https://hits.seeyoufarm.com)
+-->    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmins&show_icons=false&theme=github_dark)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmins&show_icons=false&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
