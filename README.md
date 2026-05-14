@@ -1,5 +1,5 @@
 #### 🏆 *Look into the world, think and solve problems.*
-#### 🏢 [AIRO.Inc co-founder(CTO)](https://www.airo-inc.com/)
+#### 🏢 [AIRO.Inc(CTO)](https://www.airo-inc.com/)
 #### 👨🏻‍💻 [My Resum](https://www.notion.so/developeryoonmine/b73715b3e97e445c992bea79eea39faa)
 
 <!--
